@@ -4,12 +4,15 @@ date: 2021-06-02
 ---
 Name: Andrew Ziets
 ---
+
 ---
 Picture: 
 ---
+
 ---
 Social Media Information: Instagram = a_ziets_225
 ---
+
 ---
 Brag Sheet: 
   Volunteer work at Friendship Circle, a program that helps special needs kids
