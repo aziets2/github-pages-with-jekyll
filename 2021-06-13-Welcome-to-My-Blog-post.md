@@ -5,7 +5,7 @@ date: 2021-06-13
 Name: Andrew Ziets
 ---
 
-Picture: 
+Picture: ![image](https://user-images.githubusercontent.com/84386042/121956629-5cdbd580-cd2f-11eb-886d-829766df5824.png)
 ---
 
 Social Media Information:
